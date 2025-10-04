@@ -11,7 +11,7 @@ body {
 
 .foto {
     flex: 1;
-    background-color:rgb(255, 223, 228);
+    background-color: rgb(255, 223, 228);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -83,4 +83,14 @@ footer p {
     font-family: "Libre Baskerville", serif;
     font-size: 16px;
     font-weight: 500;
+}
+
+.sobre {
+    background-color: rgb(218, 232, 245);
+    color: dimgray;
+}
+
+.experencias {
+    background-color: rgb(241, 243, 232);
+    color: dimgray;
 }

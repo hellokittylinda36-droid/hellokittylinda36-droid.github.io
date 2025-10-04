@@ -65,7 +65,22 @@ body {
     padding: 0.39rem;
     text-align: center;
 }
-.social a:hover{
-   color:lightpink;
-background-color: rgb(248, 224, 224);
+
+.social a:hover {
+    color: lightpink;
+    background-color: rgb(248, 224, 224);
+}
+
+footer {
+    background-color: lightgrey;
+    color: dimgray;
+    text-align: center;
+    padding: 20px;
+}
+
+footer p {
+    margin: 0;
+    font-family: "Libre Baskerville", serif;
+    font-size: 16px;
+    font-weight: 500;
 }
